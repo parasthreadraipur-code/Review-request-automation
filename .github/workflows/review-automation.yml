@@ -1,1 +1,61 @@
+name: Amazon Review Request Automation
 
+on:
+  schedule:
+    # Runs every 6 hours. Edit this if you want a different cadence.
+    # (Cron is in UTC — 6-hour spacing is a reasonable default given
+    # Amazon's own strict API rate limits; no need to run more often.)
+    - cron: '0 */6 * * *'
+
+  # Lets you trigger a run manually from the "Actions" tab on GitHub,
+  # for testing. Defaults to a safe dry run — nothing gets sent unless
+  # you explicitly set dry_run to false.
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run only (no real emails sent)'
+        required: true
+        default: 'true'
+        type: choice
+        options: ['true', 'false']
+
+permissions:
+  contents: write
+
+jobs:
+  run-automation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Run review request automation
+        env:
+          LWA_CLIENT_ID: ${{ secrets.LWA_CLIENT_ID }}
+          LWA_CLIENT_SECRET: ${{ secrets.LWA_CLIENT_SECRET }}
+          LWA_REFRESH_TOKEN: ${{ secrets.LWA_REFRESH_TOKEN }}
+          MARKETPLACE_ID: ${{ secrets.MARKETPLACE_ID }}
+          SPAPI_BASE_URL: ${{ secrets.SPAPI_BASE_URL }}
+          LOOKBACK_DAYS: ${{ secrets.LOOKBACK_DAYS }}
+          MAX_REQUESTS_PER_RUN: ${{ secrets.MAX_REQUESTS_PER_RUN }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            echo "Manual dry run (nothing will be sent)"
+            node index.js --dry-run
+          else
+            echo "Real run (scheduled runs always send for real)"
+            node index.js
+          fi
+
+      - name: Save results back to the repo
+        run: |
+          git config user.name "review-automation-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/ docs/log.json docs/summary.json
+          git diff --cached --quiet || git commit -m "Update review request log [skip ci]"
+          git push
