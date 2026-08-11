@@ -1,0 +1,15 @@
+{
+  "name": "amazon-review-automation",
+  "version": "2.0.0",
+  "description": "Cloud-hosted Amazon Request-a-Review automation via GitHub Actions, using the official SP-API Solicitations endpoint.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dry-run": "node index.js --dry-run"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Review Request Log</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root {
+    --bg: #12151b;
+    --panel: #1a1e26;
+    --panel-border: #2a2f3a;
+    --ink: #e9ecf1;
+    --ink-dim: #8b93a1;
+    --amber: #e8a33d;
+    --green: #4fae8a;
+    --red: #d9695f;
+    --mono: 'IBM Plex Mono', monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 48px 24px 80px; }
+  .title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: -0.02em;
+    margin-bottom: 4px;
+  }
+  .title .accent { color: var(--amber); }
+  .subtitle { color: var(--ink-dim); font-size: 14px; margin-bottom: 32px; }
+
+  .stat-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1px;
+    background: var(--panel-border);
+    border: 1px solid var(--panel-border);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 28px;
+  }
+  .stat { background: var(--panel); padding: 16px 18px; position: relative; }
+  .stat::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: var(--amber); }
+  .stat-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-dim); margin-bottom: 6px; }
+  .stat-value { font-family: var(--mono); font-size: 18px; font-weight: 500; }
+
+  .toolbar { display: flex; gap: 12px; margin-bottom: 16px; align-items: center; flex-wrap: wrap; }
+  input[type="text"] {
+    background: var(--panel);
+    border: 1px solid var(--panel-border);
+    color: var(--ink);
+    border-radius: 8px;
+    padding: 10px 14px;
+    font-family: var(--mono);
+    font-size: 13px;
+    flex: 1;
+    min-width: 220px;
+  }
+  input[type="text"]::placeholder { color: var(--ink-dim); }
+
+  table { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: 13px; }
+  thead th {
+    text-align: left;
+    color: var(--ink-dim);
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--panel-border);
+  }
+  tbody td { padding: 10px 14px; border-bottom: 1px solid var(--panel-border); }
+  tbody tr:hover { background: var(--panel); }
+  .status-sent { color: var(--green); }
+  .status-error { color: var(--red); }
+
+  .empty-note { color: var(--ink-dim); padding: 40px 0; text-align: center; font-size: 14px; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="title">Review Request <span class="accent">Log</span></div>
+    <div class="subtitle">Every review request sent by the automation, most recent first.</div>
+
+    <div class="stat-row">
+      <div class="stat"><div class="stat-label">Last run</div><div class="stat-value" id="statLastRun">—</div></div>
+      <div class="stat"><div class="stat-label">Sent this run</div><div class="stat-value" id="statSent">—</div></div>
+      <div class="stat"><div class="stat-label">Errors this run</div><div class="stat-value" id="statErrors">—</div></div>
+      <div class="stat"><div class="stat-label">Total sent all-time</div><div class="stat-value" id="statTotal">—</div></div>
+    </div>
+
+    <div class="toolbar">
+      <input type="text" id="search" placeholder="Search order ID…" />
+    </div>
+
+    <table>
+      <thead>
+        <tr><th>Order ID</th><th>Status</th><th>Time</th></tr>
+      </thead>
+      <tbody id="logBody"></tbody>
+    </table>
+    <div class="empty-note" id="emptyNote" style="display:none;">No requests logged yet.</div>
+  </div>
+
+<script>
+  let allEntries = [];
+
+  function fmtTime(iso) {
+    const d = new Date(iso);
+    return d.toLocaleString();
+  }
+
+  function render(entries) {
+    const body = document.getElementById('logBody');
+    body.innerHTML = '';
+    document.getElementById('emptyNote').style.display = entries.length === 0 ? 'block' : 'none';
+    for (const e of entries) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${e.orderId}</td>
+        <td class="status-${e.status}">${e.status === 'sent' ? 'Sent' : 'Error'}</td>
+        <td>${fmtTime(e.timestamp)}</td>
+      `;
+      body.appendChild(tr);
+    }
+  }
+
+  async function load() {
+    try {
+      const [logRes, summaryRes] = await Promise.all([
+        fetch('./log.json?_=' + Date.now()),
+        fetch('./summary.json?_=' + Date.now()),
+      ]);
+      allEntries = await logRes.json();
+      const summary = await summaryRes.json();
+
+      document.getElementById('statLastRun').textContent = summary.lastRunAt ? fmtTime(summary.lastRunAt) : '—';
+      document.getElementById('statSent').textContent = summary.sent ?? '—';
+      document.getElementById('statErrors').textContent = summary.skippedErrors ?? '—';
+      document.getElementById('statTotal').textContent = summary.totalRequestedAllTime ?? '—';
+
+      render(allEntries);
+    } catch (e) {
+      document.getElementById('emptyNote').textContent = 'Could not load log data yet — check back after the first run.';
+      document.getElementById('emptyNote').style.display = 'block';
+    }
+  }
+
+  document.getElementById('search').addEventListener('input', (e) => {
+    const q = e.target.value.trim().toLowerCase();
+    render(q ? allEntries.filter((x) => x.orderId.toLowerCase().includes(q)) : allEntries);
+  });
+
+  load();
+</script>
+</body>
+</html>
