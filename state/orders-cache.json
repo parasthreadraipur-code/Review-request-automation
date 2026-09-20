@@ -1,5 +1,5 @@
 {
-  "fetchedAt": 1789847974855,
+  "fetchedAt": 1789874027127,
   "orders": [
     {
       "BuyerInfo": {},
@@ -3825,12 +3825,12 @@
         "CurrencyCode": "INR",
         "Amount": "156.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-08T09:23:04Z",
+      "LastUpdateDate": "2026-09-20T03:04:08Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -10724,12 +10724,12 @@
         "CurrencyCode": "INR",
         "Amount": "1134.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-12T09:26:39Z",
+      "LastUpdateDate": "2026-09-20T00:48:23Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -15014,12 +15014,12 @@
         "CurrencyCode": "INR",
         "Amount": "212.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-16T10:21:29Z",
+      "LastUpdateDate": "2026-09-20T02:40:17Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -16105,12 +16105,12 @@
         "CurrencyCode": "INR",
         "Amount": "106.70"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-15T10:18:34Z",
+      "LastUpdateDate": "2026-09-20T02:54:00Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -16215,12 +16215,12 @@
         "CurrencyCode": "INR",
         "Amount": "219.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-15T10:18:30Z",
+      "LastUpdateDate": "2026-09-20T03:13:13Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -16948,12 +16948,12 @@
         "CurrencyCode": "INR",
         "Amount": "242.50"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-16T10:21:29Z",
+      "LastUpdateDate": "2026-09-20T03:02:33Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -17800,12 +17800,12 @@
         "CurrencyCode": "INR",
         "Amount": "126.58"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-15T10:18:35Z",
+      "LastUpdateDate": "2026-09-20T02:53:45Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -28007,7 +28007,7 @@
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-09-19T11:15:02Z",
+      "LastUpdateDate": "2026-09-19T22:15:37Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
