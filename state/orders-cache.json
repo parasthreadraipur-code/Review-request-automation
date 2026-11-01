@@ -1,1801 +1,6 @@
 {
-  "fetchedAt": 1793506171079,
+  "fetchedAt": 1793536698671,
   "orders": [
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "406-8460503-4720316",
-      "EarliestDeliveryDate": "2026-10-24T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "96.10"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-25T18:29:59Z",
-      "PurchaseDate": "2026-10-17T04:30:10Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KERALA",
-        "PostalCode": "695013",
-        "City": "THIRUVANANTHAPURAM",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.10"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T08:25:34Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "403-7907236-8155515",
-      "EarliestDeliveryDate": "2026-10-21T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "93.33"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-22T18:29:59Z",
-      "PurchaseDate": "2026-10-17T04:35:47Z",
-      "ShippingAddress": {
-        "StateOrRegion": "TAMIL NADU",
-        "PostalCode": "600053",
-        "City": "CHENNAI",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "86.33"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T08:04:41Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "402-7338895-7681165",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T05:10:20Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "411044",
-        "City": "PIMPRI CHINCHWAD",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "338.53"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T14:09:54Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "408-9238312-7450749",
-      "EarliestDeliveryDate": "2026-10-24T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "204.00"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-25T18:29:59Z",
-      "PurchaseDate": "2026-10-17T05:11:29Z",
-      "ShippingAddress": {
-        "StateOrRegion": "GUJARAT",
-        "PostalCode": "394650",
-        "City": "VYARA",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "197.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T05:56:36Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "408-9611439-3392343",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T05:32:01Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "411057",
-        "City": "PUNE",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "99.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T05:43:13Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "406-7241602-6446757",
-      "EarliestDeliveryDate": "2026-10-24T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-25T18:29:59Z",
-      "PurchaseDate": "2026-10-17T05:42:57Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KERALA",
-        "PostalCode": "695002",
-        "City": "THIRUVANANTHAPURAM",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "86.33"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T08:55:12Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "171-2010056-4650743",
-      "EarliestDeliveryDate": "2026-10-21T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "96.00"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-22T18:29:59Z",
-      "PurchaseDate": "2026-10-17T05:51:41Z",
-      "ShippingAddress": {
-        "StateOrRegion": "DELHI",
-        "PostalCode": "110044",
-        "City": "New Delhi",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-21T06:07:39Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "171-7328499-1141127",
-      "EarliestDeliveryDate": "2026-10-21T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-22T18:29:59Z",
-      "PurchaseDate": "2026-10-17T05:58:32Z",
-      "ShippingAddress": {
-        "StateOrRegion": "HARYANA",
-        "PostalCode": "122101",
-        "City": "Gurugram",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "99.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-21T05:32:16Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "402-3642408-4501955",
-      "EarliestDeliveryDate": "2026-10-22T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "204.00"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-23T18:29:59Z",
-      "PurchaseDate": "2026-10-17T06:04:44Z",
-      "ShippingAddress": {
-        "StateOrRegion": "HARYANA",
-        "PostalCode": "134113",
-        "City": "PANCHKULA",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "197.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-22T09:17:30Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "407-2574034-9809900",
-      "EarliestDeliveryDate": "2026-10-24T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-25T18:29:59Z",
-      "PurchaseDate": "2026-10-17T06:27:42Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "401404",
-        "City": "Palghar",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "86.33"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T11:15:35Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "405-9466029-0202745",
-      "EarliestDeliveryDate": "2026-10-22T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-23T18:29:59Z",
-      "PurchaseDate": "2026-10-17T06:27:59Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "400104",
-        "City": "MUMBAI",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "148.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T09:26:02Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "404-6809162-1012325",
-      "EarliestDeliveryDate": "2026-10-29T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ Metro COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-30T18:29:59Z",
-      "PurchaseDate": "2026-10-17T06:35:24Z",
-      "ShippingAddress": {
-        "StateOrRegion": "SIKKIM",
-        "PostalCode": "737101",
-        "City": "GANGTOK",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "199.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-29T05:58:03Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "407-4065309-2553902",
-      "EarliestDeliveryDate": "2026-10-21T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "96.10"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-22T18:29:59Z",
-      "PurchaseDate": "2026-10-17T06:51:13Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KARNATAKA",
-        "PostalCode": "560032",
-        "City": "BENGALURU",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.10"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-22T05:21:16Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "404-0755435-4152367",
-      "EarliestDeliveryDate": "2026-10-27T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "96.00"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-28T18:29:59Z",
-      "PurchaseDate": "2026-10-17T07:02:53Z",
-      "ShippingAddress": {
-        "StateOrRegion": "RAJASTHAN",
-        "PostalCode": "335061",
-        "City": "Padampur",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-29T11:07:55Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "406-0380061-0305921",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "256.00"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T07:08:11Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KARNATAKA",
-        "PostalCode": "584113",
-        "City": "YADGIR",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "249.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T06:05:13Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "405-5345441-2081950",
-      "EarliestDeliveryDate": "2026-10-26T18:30:00Z",
-      "EarliestShipDate": "2026-10-16T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 2,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-17T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ Metro COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-27T18:29:59Z",
-      "PurchaseDate": "2026-10-17T07:08:14Z",
-      "ShippingAddress": {
-        "StateOrRegion": "WEST BENGAL",
-        "PostalCode": "713363",
-        "City": "DURGAPUR",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "253.80"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-25T03:48:47Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "408-6930045-4609126",
-      "EarliestDeliveryDate": "2026-10-22T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-23T18:29:59Z",
-      "PurchaseDate": "2026-10-17T07:13:46Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "400078",
-        "City": "MUMBAI",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T06:45:32Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "171-1317397-1425966",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T07:32:19Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "411015",
-        "City": "PUNE",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "86.43"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T05:04:19Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "408-0036925-9151535",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T08:04:33Z",
-      "ShippingAddress": {
-        "StateOrRegion": "HARYANA",
-        "PostalCode": "124103",
-        "City": "Jhajjar",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "134.10"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T13:11:12Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "402-7775886-7033933",
-      "EarliestDeliveryDate": "2026-10-25T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-26T18:29:59Z",
-      "PurchaseDate": "2026-10-17T08:12:52Z",
-      "ShippingAddress": {
-        "StateOrRegion": "TAMIL NADU",
-        "PostalCode": "626124",
-        "City": "SIVAKASI",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T09:02:48Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "408-3754008-1525946",
-      "EarliestDeliveryDate": "2026-10-26T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-27T18:29:59Z",
-      "PurchaseDate": "2026-10-17T08:24:58Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KERALA",
-        "PostalCode": "689711",
-        "City": "PATHANAMTHITTA",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T10:34:42Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "404-0013558-6849175",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T08:38:13Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KARNATAKA",
-        "PostalCode": "560066",
-        "City": "Bengaluru",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T06:01:27Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "408-0268857-1718727",
-      "EarliestDeliveryDate": "2026-10-22T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "155.00"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-23T18:29:59Z",
-      "PurchaseDate": "2026-10-17T08:49:55Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "400059",
-        "City": "MUMBAI",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "148.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T08:55:39Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "407-1009409-3474751",
-      "EarliestDeliveryDate": "2026-10-24T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-25T18:29:59Z",
-      "PurchaseDate": "2026-10-17T10:14:09Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "423701",
-        "City": "VAIJAPUR",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T13:59:30Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "405-1469172-7857148",
-      "EarliestDeliveryDate": "2026-10-26T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-27T18:29:59Z",
-      "PurchaseDate": "2026-10-17T10:20:01Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KERALA",
-        "PostalCode": "691574",
-        "City": "KOLLAM",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "349.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T11:01:52Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "403-4340595-1756310",
-      "EarliestDeliveryDate": "2026-10-25T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "PaymentExecutionDetail": [
-        {
-          "Payment": {
-            "CurrencyCode": "INR",
-            "Amount": "148.00"
-          },
-          "PaymentMethod": "COD"
-        }
-      ],
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-26T18:29:59Z",
-      "PurchaseDate": "2026-10-17T10:22:27Z",
-      "ShippingAddress": {
-        "StateOrRegion": "TAMIL NADU",
-        "PostalCode": "642005",
-        "City": "POLLACHI",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "COD",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "141.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "CashOnDelivery"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-25T12:08:17Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "408-0321465-8906709",
-      "EarliestDeliveryDate": "2026-10-22T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-23T18:29:59Z",
-      "PurchaseDate": "2026-10-17T10:37:17Z",
-      "ShippingAddress": {
-        "StateOrRegion": "TELANGANA",
-        "PostalCode": "500091",
-        "City": "HYDERABAD",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.10"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T10:46:44Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "171-7690285-9985935",
-      "EarliestDeliveryDate": "2026-10-22T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-23T18:29:59Z",
-      "PurchaseDate": "2026-10-17T10:48:06Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "400104",
-        "City": "MUMBAI",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.10"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-23T07:04:20Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "407-5943327-5961151",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 2,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T11:18:49Z",
-      "ShippingAddress": {
-        "StateOrRegion": "MAHARASHTRA",
-        "PostalCode": "411033",
-        "City": "PIMPRI CHINCHWAD",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "171.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T07:11:54Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "402-6703138-1391554",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T12:18:50Z",
-      "ShippingAddress": {
-        "StateOrRegion": "KARNATAKA",
-        "PostalCode": "560067",
-        "City": "BENGALURU",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "89.00"
-      },
-      "EasyShipShipmentStatus": "Delivered",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-24T04:38:35Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
-    {
-      "BuyerInfo": {},
-      "AmazonOrderId": "404-8681886-9623544",
-      "EarliestDeliveryDate": "2026-10-23T18:30:00Z",
-      "EarliestShipDate": "2026-10-18T18:30:00Z",
-      "SalesChannel": "Amazon.in",
-      "AutomatedShippingSettings": {
-        "HasAutomatedShippingSettings": false
-      },
-      "OrderStatus": "Shipped",
-      "NumberOfItemsShipped": 1,
-      "OrderType": "StandardOrder",
-      "IsPremiumOrder": false,
-      "IsPrime": true,
-      "FulfillmentChannel": "MFN",
-      "NumberOfItemsUnshipped": 0,
-      "HasRegulatedItems": false,
-      "IsReplacementOrder": "false",
-      "IsSoldByAB": false,
-      "LatestShipDate": "2026-10-19T18:29:59Z",
-      "ShipServiceLevel": "Std IN EZ National COD",
-      "DefaultShipFromLocationAddress": {
-        "AddressLine2": "null",
-        "StateOrRegion": "CHHATTISGARH",
-        "AddressLine1": "null",
-        "PostalCode": "492007",
-        "City": "RAIPUR",
-        "CountryCode": "IN",
-        "Name": "null"
-      },
-      "IsISPU": false,
-      "MarketplaceId": "A21TJRUUN4KGV",
-      "LatestDeliveryDate": "2026-10-24T18:29:59Z",
-      "PurchaseDate": "2026-10-17T12:23:20Z",
-      "ShippingAddress": {
-        "StateOrRegion": "HARYANA",
-        "PostalCode": "122001",
-        "City": "GURUGRAM",
-        "CountryCode": "IN"
-      },
-      "IsAccessPointOrder": false,
-      "PaymentMethod": "Other",
-      "IsBusinessOrder": false,
-      "OrderTotal": {
-        "CurrencyCode": "INR",
-        "Amount": "86.43"
-      },
-      "EasyShipShipmentStatus": "PickedUp",
-      "PaymentMethodDetails": [
-        "Standard"
-      ],
-      "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-19T12:49:40Z",
-      "ShipmentServiceLevelCategory": "Standard"
-    },
     {
       "BuyerInfo": {},
       "AmazonOrderId": "402-6903220-2074713",
@@ -2438,12 +643,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:56:28Z",
+      "LastUpdateDate": "2026-11-01T05:23:19Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -2667,12 +872,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T13:21:16Z",
+      "LastUpdateDate": "2026-11-01T08:25:22Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -2722,12 +927,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:50:52Z",
+      "LastUpdateDate": "2026-11-01T08:04:33Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -13072,12 +11277,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-30T01:07:00Z",
+      "LastUpdateDate": "2026-11-01T07:09:27Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -14437,12 +12642,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.00"
       },
-      "EasyShipShipmentStatus": "Undeliverable",
+      "EasyShipShipmentStatus": "ReturningToSeller",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-31T06:07:27Z",
+      "LastUpdateDate": "2026-11-01T05:33:56Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -15376,7 +13581,7 @@
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T00:58:28Z",
+      "LastUpdateDate": "2026-11-01T12:18:55Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -19255,12 +17460,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T13:21:20Z",
+      "LastUpdateDate": "2026-11-01T08:56:56Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -20436,12 +18641,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-30T16:13:25Z",
+      "LastUpdateDate": "2026-11-01T08:33:57Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -23019,12 +21224,12 @@
         "CurrencyCode": "INR",
         "Amount": "171.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T04:09:01Z",
+      "LastUpdateDate": "2026-11-01T11:21:11Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -27814,12 +26019,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T13:21:26Z",
+      "LastUpdateDate": "2026-11-01T06:58:01Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -28125,12 +26330,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T13:21:17Z",
+      "LastUpdateDate": "2026-11-01T06:53:50Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -28308,12 +26513,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T13:21:19Z",
+      "LastUpdateDate": "2026-11-01T08:57:37Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -28363,12 +26568,12 @@
         "CurrencyCode": "INR",
         "Amount": "129.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T13:21:17Z",
+      "LastUpdateDate": "2026-11-01T08:57:34Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -28418,12 +26623,12 @@
         "CurrencyCode": "INR",
         "Amount": "119.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-26T13:21:16Z",
+      "LastUpdateDate": "2026-11-01T09:08:28Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -28482,12 +26687,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:51:52Z",
+      "LastUpdateDate": "2026-11-01T09:36:50Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -28995,12 +27200,12 @@
         "CurrencyCode": "INR",
         "Amount": "199.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:49:09Z",
+      "LastUpdateDate": "2026-11-01T05:58:04Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -29059,12 +27264,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T07:48:58Z",
+      "LastUpdateDate": "2026-11-01T05:52:05Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -29114,12 +27319,12 @@
         "CurrencyCode": "INR",
         "Amount": "214.20"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:35:05Z",
+      "LastUpdateDate": "2026-11-01T04:50:54Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -29288,12 +27493,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:25:12Z",
+      "LastUpdateDate": "2026-11-01T09:33:58Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -29398,12 +27603,12 @@
         "CurrencyCode": "INR",
         "Amount": "129.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:08Z",
+      "LastUpdateDate": "2026-11-01T08:21:33Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -29517,12 +27722,12 @@
         "CurrencyCode": "INR",
         "Amount": "171.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:05Z",
+      "LastUpdateDate": "2026-11-01T06:56:02Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -29847,12 +28052,12 @@
         "CurrencyCode": "INR",
         "Amount": "129.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:10Z",
+      "LastUpdateDate": "2026-11-01T09:37:55Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -30607,12 +28812,12 @@
         "CurrencyCode": "INR",
         "Amount": "129.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:55:35Z",
+      "LastUpdateDate": "2026-11-01T09:48:47Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -31312,12 +29517,12 @@
         "CurrencyCode": "INR",
         "Amount": "125.13"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:58:30Z",
+      "LastUpdateDate": "2026-11-01T05:04:25Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -32650,12 +30855,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:27Z",
+      "LastUpdateDate": "2026-11-01T08:49:07Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -32943,12 +31148,12 @@
         "CurrencyCode": "INR",
         "Amount": "839.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:21:37Z",
+      "LastUpdateDate": "2026-11-01T05:56:37Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -33291,12 +31496,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:33:49Z",
+      "LastUpdateDate": "2026-11-01T06:40:27Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -34026,12 +32231,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:13:13Z",
+      "LastUpdateDate": "2026-11-01T05:13:05Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -34191,12 +32396,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:06Z",
+      "LastUpdateDate": "2026-11-01T09:11:57Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -34429,12 +32634,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:34Z",
+      "LastUpdateDate": "2026-11-01T09:46:43Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -34484,12 +32689,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:06Z",
+      "LastUpdateDate": "2026-11-01T04:41:15Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -35061,12 +33266,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:06:12Z",
+      "LastUpdateDate": "2026-11-01T06:31:49Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -35299,12 +33504,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:51:07Z",
+      "LastUpdateDate": "2026-11-01T09:03:03Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -35427,12 +33632,12 @@
         "CurrencyCode": "INR",
         "Amount": "119.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:09Z",
+      "LastUpdateDate": "2026-11-01T06:15:18Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -35647,12 +33852,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:05Z",
+      "LastUpdateDate": "2026-11-01T07:30:05Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -35812,12 +34017,12 @@
         "CurrencyCode": "INR",
         "Amount": "125.13"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:38:58Z",
+      "LastUpdateDate": "2026-11-01T04:34:37Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -35931,12 +34136,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T04:00:43Z",
+      "LastUpdateDate": "2026-11-01T10:08:25Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -36041,12 +34246,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:06Z",
+      "LastUpdateDate": "2026-11-01T08:06:55Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -36151,12 +34356,12 @@
         "CurrencyCode": "INR",
         "Amount": "134.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:07Z",
+      "LastUpdateDate": "2026-11-01T08:40:34Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -36444,12 +34649,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:14:04Z",
+      "LastUpdateDate": "2026-11-01T08:31:48Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -36499,12 +34704,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:37:52Z",
+      "LastUpdateDate": "2026-11-01T06:59:17Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -36618,12 +34823,12 @@
         "CurrencyCode": "INR",
         "Amount": "134.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:07Z",
+      "LastUpdateDate": "2026-11-01T08:48:08Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -36783,12 +34988,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:16:54Z",
+      "LastUpdateDate": "2026-11-01T08:49:00Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -36966,12 +35171,12 @@
         "CurrencyCode": "INR",
         "Amount": "125.13"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:07Z",
+      "LastUpdateDate": "2026-11-01T08:55:50Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -37186,12 +35391,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:07Z",
+      "LastUpdateDate": "2026-11-01T10:07:43Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -37296,12 +35501,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:51:47Z",
+      "LastUpdateDate": "2026-11-01T05:27:38Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -37543,12 +35748,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:12Z",
+      "LastUpdateDate": "2026-11-01T10:03:29Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -37598,12 +35803,12 @@
         "CurrencyCode": "INR",
         "Amount": "189.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:04Z",
+      "LastUpdateDate": "2026-11-01T08:55:00Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -37717,12 +35922,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:31Z",
+      "LastUpdateDate": "2026-11-01T07:41:44Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -38340,12 +36545,12 @@
         "CurrencyCode": "INR",
         "Amount": "139.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:21Z",
+      "LastUpdateDate": "2026-11-01T08:42:38Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -38624,12 +36829,12 @@
         "CurrencyCode": "INR",
         "Amount": "129.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:01Z",
+      "LastUpdateDate": "2026-11-01T04:59:27Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -39018,12 +37223,12 @@
         "CurrencyCode": "INR",
         "Amount": "129.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:07:59Z",
+      "LastUpdateDate": "2026-11-01T09:16:34Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -39943,12 +38148,12 @@
         "CurrencyCode": "INR",
         "Amount": "178.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:08Z",
+      "LastUpdateDate": "2026-11-01T08:57:27Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -40053,12 +38258,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:21Z",
+      "LastUpdateDate": "2026-11-01T10:02:32Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -40767,12 +38972,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:01Z",
+      "LastUpdateDate": "2026-11-01T08:26:36Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -40950,12 +39155,12 @@
         "CurrencyCode": "INR",
         "Amount": "134.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:28:55Z",
+      "LastUpdateDate": "2026-11-01T11:26:00Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -41060,12 +39265,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:08:29Z",
+      "LastUpdateDate": "2026-11-01T05:05:31Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -41115,12 +39320,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:07:59Z",
+      "LastUpdateDate": "2026-11-01T12:17:06Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -41848,12 +40053,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:08Z",
+      "LastUpdateDate": "2026-11-01T09:56:29Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -41903,12 +40108,12 @@
         "CurrencyCode": "INR",
         "Amount": "320.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:06Z",
+      "LastUpdateDate": "2026-11-01T06:02:40Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -41967,12 +40172,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:48Z",
+      "LastUpdateDate": "2026-11-01T10:01:50Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -42086,12 +40291,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:09:49Z",
+      "LastUpdateDate": "2026-11-01T06:30:25Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -42196,12 +40401,12 @@
         "CurrencyCode": "INR",
         "Amount": "119.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:56:17Z",
+      "LastUpdateDate": "2026-11-01T07:50:39Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -42260,12 +40465,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:44:13Z",
+      "LastUpdateDate": "2026-11-01T11:50:47Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -42476,9 +40681,9 @@
       },
       "IsAccessPointOrder": false,
       "IsBusinessOrder": false,
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:19:57Z",
+      "LastUpdateDate": "2026-11-01T09:23:08Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -42592,12 +40797,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:05Z",
+      "LastUpdateDate": "2026-11-01T08:13:49Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -42711,12 +40916,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:05Z",
+      "LastUpdateDate": "2026-11-01T11:15:42Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -43306,12 +41511,12 @@
         "CurrencyCode": "INR",
         "Amount": "490.20"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:21:22Z",
+      "LastUpdateDate": "2026-11-01T09:44:03Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -43471,12 +41676,12 @@
         "CurrencyCode": "INR",
         "Amount": "160.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:06Z",
+      "LastUpdateDate": "2026-11-01T08:30:45Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -43700,12 +41905,12 @@
         "CurrencyCode": "INR",
         "Amount": "134.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:45:59Z",
+      "LastUpdateDate": "2026-11-01T08:34:14Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -43858,12 +42063,12 @@
         "CurrencyCode": "INR",
         "Amount": "134.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-27T11:20:08Z",
+      "LastUpdateDate": "2026-11-01T04:27:15Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -44087,12 +42292,12 @@
         "CurrencyCode": "INR",
         "Amount": "115.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:22Z",
+      "LastUpdateDate": "2026-11-01T10:10:53Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -44554,12 +42759,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:05Z",
+      "LastUpdateDate": "2026-11-01T10:24:48Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -45085,12 +43290,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:28:50Z",
+      "LastUpdateDate": "2026-11-01T04:51:55Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -45195,12 +43400,12 @@
         "CurrencyCode": "INR",
         "Amount": "125.13"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T02:19:58Z",
+      "LastUpdateDate": "2026-11-01T05:54:36Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -45909,12 +44114,12 @@
         "CurrencyCode": "INR",
         "Amount": "124.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:07Z",
+      "LastUpdateDate": "2026-11-01T08:51:45Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -46193,12 +44398,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:03Z",
+      "LastUpdateDate": "2026-11-01T08:13:06Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -46706,12 +44911,12 @@
         "CurrencyCode": "INR",
         "Amount": "94.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:35:32Z",
+      "LastUpdateDate": "2026-11-01T08:51:18Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -46761,12 +44966,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T03:44:48Z",
+      "LastUpdateDate": "2026-11-01T10:34:50Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -46926,12 +45131,12 @@
         "CurrencyCode": "INR",
         "Amount": "86.43"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T04:04:51Z",
+      "LastUpdateDate": "2026-11-01T05:37:56Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -46981,12 +45186,12 @@
         "CurrencyCode": "INR",
         "Amount": "138.00"
       },
-      "EasyShipShipmentStatus": "OutForDelivery",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-11-01T01:31:18Z",
+      "LastUpdateDate": "2026-11-01T04:24:46Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -47100,12 +45305,12 @@
         "CurrencyCode": "INR",
         "Amount": "122.00"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "OutForDelivery",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:08:03Z",
+      "LastUpdateDate": "2026-11-01T04:40:13Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -47329,12 +45534,12 @@
         "CurrencyCode": "INR",
         "Amount": "160.20"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-28T12:07:59Z",
+      "LastUpdateDate": "2026-11-01T12:29:17Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -52314,12 +50519,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "CashOnDelivery"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-29T10:29:41Z",
+      "LastUpdateDate": "2026-11-01T10:34:32Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -56255,12 +54460,12 @@
         "CurrencyCode": "INR",
         "Amount": "89.10"
       },
-      "EasyShipShipmentStatus": "PickedUp",
+      "EasyShipShipmentStatus": "Delivered",
       "PaymentMethodDetails": [
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-30T15:25:06Z",
+      "LastUpdateDate": "2026-11-01T11:36:54Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -56599,7 +54804,7 @@
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-31T13:45:37Z",
+      "LastUpdateDate": "2026-11-01T08:56:13Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -58431,7 +56636,7 @@
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-31T13:45:19Z",
+      "LastUpdateDate": "2026-11-01T09:27:12Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -60903,7 +59108,7 @@
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-31T13:45:39Z",
+      "LastUpdateDate": "2026-11-01T11:11:18Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
@@ -60958,7 +59163,7 @@
         "Standard"
       ],
       "IsGlobalExpressEnabled": false,
-      "LastUpdateDate": "2026-10-31T13:46:22Z",
+      "LastUpdateDate": "2026-11-01T07:20:54Z",
       "ShipmentServiceLevelCategory": "Standard"
     },
     {
